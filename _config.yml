@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Radhakrishna Kamath"
+  avatar           : "profile1.png"
+  bio              : "Secular thinker from India"
+  location         : "IITM"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "rkkamath95@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Radhakrishna_Kamath"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "radhakrishnaKamath"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  impactstory      : 
+  lastfm           : 
+  linkedin         : "radhakrishna-kamath-530a3498"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ratedradhakrish"
   vine             :
   weibo            :
   xing             :
