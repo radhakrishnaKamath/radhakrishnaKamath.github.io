@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Over Rated Blog"
+title                    : "Over Rated"
 title_separator          : "-"
 name                     : &name "Radhakrishna Kamath"
 description              : &description "Teacher @ heart"
